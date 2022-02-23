@@ -1,6 +1,6 @@
 # advanced_webview
 
-A new Flutter project.
+That was a webview app of website. with that you can hide header footer of website & create in app design to look more beautiful
 
 ## Getting Started
 
